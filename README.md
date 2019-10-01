@@ -46,3 +46,5 @@ terraform destroy
 
 
 PS: the whole project is inspired and updated from https://www.airpair.com/aws/posts/ntiered-aws-docker-terraform-guide , I have tested it several times, everything just works as expected.
+
+It is the practice of Infrastructure as Code 
